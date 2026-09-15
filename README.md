@@ -1,27 +1,31 @@
 # AI Engineering Journey
 
-I'm a software engineer learning AI engineering and building
-AI-powered applications.
+My journey from software engineer to AI engineer.
 
-## Goals
+## Current Focus
 
-- Learn AI engineering fundamentals
-- Learn LLM application development
-- Learn RAG and AI agents
-- Build a production-style AI project
-- Develop stronger Python skills
-- Learn how to evaluate and secure AI systems
+I'm learning the foundations of AI engineering, starting with Python, Git, and software development practices.
 
-## Current Project
+## Phase 1 — Foundations
 
-Coming soon: AI Support Engineer
+- [x] Set up Git and GitHub
+- [x] Configure SSH authentication
+- [x] Create a Python virtual environment
+- [x] Create and run my first Python program
+- [x] Learn the Git workflow
+- [x] Document my progress
 
-## Technologies
+## Tech I'm Learning
 
 - Python
-- LLM APIs
-- FastAPI
-- PostgreSQL
+- Git & GitHub
+- APIs
+- LLMs
 - RAG
-- AI Agents
+- AI agents
 - Docker
+- PostgreSQL
+
+## Goal
+
+Build production-oriented AI applications and transition toward AI engineering while building on my existing software engineering experience.
